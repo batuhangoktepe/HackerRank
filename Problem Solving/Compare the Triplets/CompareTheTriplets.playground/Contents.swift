@@ -11,7 +11,6 @@ import Foundation
 
 
 func compareTriplets(a: [Int], b: [Int]) -> [Int] {
-    // Write your code here
     var aScore: Int = 0
     var bScore: Int = 0
     
@@ -22,7 +21,6 @@ func compareTriplets(a: [Int], b: [Int]) -> [Int] {
             bScore += 1
         }
     }
-    
     
     return [aScore, bScore]
 }
