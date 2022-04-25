@@ -9,7 +9,6 @@ import Foundation
  *  2. INTEGER_ARRAY b
  */
 
-
 func compareTriplets(a: [Int], b: [Int]) -> [Int] {
     var aScore: Int = 0
     var bScore: Int = 0
